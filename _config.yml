@@ -32,15 +32,15 @@ navs:
 
   -
     href: /categories/
-    label: 分类
+    label: 分类1
 
 #   -
 #     href: /archives/
-#     label: 归档
+#     label: 归档1
 
   -
     href: /wiki/
-    label: 维基
+    label: 维基1
 
   -
     href: /links/
