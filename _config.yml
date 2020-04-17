@@ -104,8 +104,8 @@ gitalk:
     owner: whooc
     repo: blog_comment
     #admin: ['whooc'],
-    clientID: 083ec94b416ce61952f8
-    clientSecret: 2cfb5f73aae91e4faab9737c7d363063a1befef9
+    clientID: 0287be80fed42405ac5ad
+    clientSecret: e997ce8c2080dd5d06a137888d05c6d763f493cd
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
