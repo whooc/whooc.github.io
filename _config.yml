@@ -95,14 +95,14 @@ comments_provider: gitalk
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: whooc
-    repo: ruyi
+    repo: blog_comment
     oauth:
         client_id: 083ec94b416ce61952f8
         client_secret: 2cfb5f73aae91e4faab9737c7d363063a1befef9
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: whooc
-    repo: ruyi
+    repo: blog_comment
     clientID: 083ec94b416ce61952f8
     clientSecret: 2cfb5f73aae91e4faab9737c7d363063a1befef9
 # 在使用其它评论组件时可点击显示 Disqus
