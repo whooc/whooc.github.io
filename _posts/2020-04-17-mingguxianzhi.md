@@ -17,6 +17,6 @@ keywords: 明古现志
 <center><font size="4">何故庸才不称臣。
   
   
-![mingguxianzhi](/images/posts/markdown/mingguxianzhi.jpeg)
+![mingguxianzhi](https://ruyi.ru/images/posts/markdown/mingguxianzhi.jpeg)
 
 
