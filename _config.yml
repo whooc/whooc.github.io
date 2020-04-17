@@ -86,26 +86,26 @@ repository: whooc/whooc.github.io
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
-comments_provider: gitalk
+comments_provider: gitment
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 #disqus:
-    username: 
+    #username: 
 # https://imsun.net/posts/gitment-introduction/
-#gitment:
+gitment:
     owner: whooc
     repo: blog_comment
     oauth:
         client_id: 083ec94b416ce61952f8
         client_secret: 2cfb5f73aae91e4faab9737c7d363063a1befef9
 # https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: whooc
-    repo: blog_comment
+#gitalk:
+    #owner: whooc
+    #repo: blog_comment
     #admin: ['whooc']
-    clientID: 287be80fed42405ac5ad
-    clientSecret: e997ce8c2080dd5d06a137888d05c6d763f493cd
+    #clientID: 287be80fed42405ac5ad
+    #clientSecret: e997ce8c2080dd5d06a137888d05c6d763f493cd
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
