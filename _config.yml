@@ -4,10 +4,10 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 儒一
+subtitle: "生于行，儒于行"
+description: "儒一博客，生于行，儒于行"
+keywords: 儒一，如一，如意
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 风乐
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: whooc
+location: Guangzhou, China
+email: info@whooc.om
 
 # ---------------- #
 #    Navigation    #
@@ -32,23 +32,22 @@ navs:
 
   -
     href: /categories/
-    label: 分类1
+    label: 文章分类
 
 #   -
 #     href: /archives/
-#     label: 归档1
+#     label: 归档
 
   -
     href: /wiki/
-    label: 维基1
-
+    label: 百科
   -
     href: /links/
-    label: 链接
+    label: 友情链接
 
   -
     href: /about/
-    label: 关于
+    label: 关于儒一
 
 # ---------------- #
 #       RSS        #
