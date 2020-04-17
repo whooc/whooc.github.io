@@ -18,5 +18,5 @@ keywords: 明古现志
   
   
 
-![](https://ruyi.ru/images/posts/markdown/mingguxianzhi.jpeg)
+
 
