@@ -103,7 +103,7 @@ comments_provider: gitalk
 gitalk:
     owner: whooc
     repo: blog_comment
-    admin: ['whooc'],
+    #admin: ['whooc'],
     clientID: 083ec94b416ce61952f8
     clientSecret: 2cfb5f73aae91e4faab9737c7d363063a1befef9
 # 在使用其它评论组件时可点击显示 Disqus
