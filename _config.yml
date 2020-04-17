@@ -46,8 +46,8 @@ navs:
     label: 友情链接
 
   -
-    href: /about/
-    label: 关于儒一
+    #href: /about/
+    #label: 关于儒一
 
 # ---------------- #
 #       RSS        #
