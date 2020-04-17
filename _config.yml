@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://ruyi.ru
 date_format: "ordinal"
 title: 儒一
 subtitle: "生于行，儒于行"
@@ -80,7 +80,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: whooc/whooc.github.io
 
 # ---------------- #
 #      Comments    #
