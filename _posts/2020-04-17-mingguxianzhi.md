@@ -14,6 +14,6 @@ keywords: 明古现志
 
 <center><font size="4">霸王当年乌江在，
 
-<center><font size="4">何故庸才不称臣。
+<center><font size="4">何故庸才不称臣。<br>
   
 <img src="https://ruyi.ru/images/posts/markdown/mingguxianzhi.jpeg">
