@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 举办学院会议为主题的思维导图详解
-categories:blog
+categories: blog
 description: 
 keywords: 举办学院会议为主题的思维导图详解
 ---
