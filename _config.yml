@@ -10,14 +10,14 @@ description: "儒一博客，生于行，儒于行"
 keywords: 儒一，如一，如意
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 1
 
 # ---------------- #
 #      Author      #
 # ---------------- #
 author: 风乐
 organization: 
-organization_url: 
+organization_url: ruyi.ru
 github_username: whooc
 location: Guangzhou, China
 email: info@whooc.om
