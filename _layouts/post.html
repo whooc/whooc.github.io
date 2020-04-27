@@ -34,6 +34,7 @@ layout: default
     <article class="article-content markdown-body">
     {{ content }}
     </article>
+    本文中文{{ content | strip_html | strip_newlines | split: "" | size }}字|英文{{ page.content | number_of_words }}字
     <div class="share">
       {% include sns-share.html %}
     </div>
