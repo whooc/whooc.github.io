@@ -55,7 +55,7 @@ gems:
 - jekyll-feed
 - jemoji
 repository: whooc/whooc.github.io
-comments_provider: false
+comments_provider: disqus
 gitment:
   owner: whooc
   repo: blog_comment
