@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 举办学院会议为主题的思维导图详解
-categories: blog
+date: 2020-04-19 00:00:00 +08:00
+categories:
+- blog
+layout: post
 description: 
 keywords: 举办学院会议为主题的思维导图详解
 ---

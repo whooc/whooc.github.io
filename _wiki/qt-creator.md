@@ -1,7 +1,8 @@
 ---
-layout: wiki
 title: Qt Creator
-categories: Qt
+categories:
+- Qt
+layout: wiki
 description: Qt Creator 的常用快捷键和操作记录
 keywords: Qt, Qt Creator
 ---

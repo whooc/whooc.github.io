@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 青年万众何惧疫情
-categories: blog
+date: 2020-04-19 00:00:00 +08:00
+categories:
+- blog
+layout: post
 description: 青年万众何惧疫情
 keywords: 青年万众何惧疫情
 ---

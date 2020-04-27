@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 一份简明的 Markdown 笔记与教程
-categories: Markdown
+date: 2018-09-06 00:00:00 +08:00
+categories:
+- Markdown
+layout: post
 description: 一份简明的 Markdown 笔记与教程
 keywords: Markdown, VSCode
 ---

@@ -1,5 +1,6 @@
 ---
 ---
+
 {% capture json %}
 [
   {% for pg in site.pages %}

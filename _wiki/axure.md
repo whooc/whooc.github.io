@@ -1,7 +1,8 @@
 ---
-layout: wiki
 title: Axure
-categories: tools
+categories:
+- tools
+layout: wiki
 description: Axure RP 快捷键和使用技巧
 keywords: Axure RP
 ---

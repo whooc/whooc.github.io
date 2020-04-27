@@ -1,7 +1,9 @@
 ---
-layout: wiki
 title: MySQL
-categories: [MySQL, Database]
+categories:
+- MySQL
+- Database
+layout: wiki
 description: MySQL Wiki
 keywords: MySQL
 ---

@@ -1,7 +1,8 @@
 ---
-layout: wiki
 title: Vim
-categories: Vim
+categories:
+- Vim
+layout: wiki
 description: 个人最常用的 Vim 常用操作。
 keywords: Vim
 ---

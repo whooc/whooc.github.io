@@ -1,7 +1,8 @@
 ---
-layout: wiki
 title: Kindle
-categories: [Tools]
+categories:
+- Tools
+layout: wiki
 description: 我爱 Kindle
 keywords: Kindle
 ---

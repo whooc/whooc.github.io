@@ -1,7 +1,8 @@
 ---
-layout: wiki
 title: IDA Pro
-categories: Debug
+categories:
+- Debug
+layout: wiki
 description: 静态分析神器
 keywords: debug, IDA Pro
 ---

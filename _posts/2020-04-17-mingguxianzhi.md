@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 明古现志
-categories: potry
+date: 2020-04-17 00:00:00 +08:00
+categories:
+- potry
+layout: post
 description: 
 keywords: 明古现志
 ---

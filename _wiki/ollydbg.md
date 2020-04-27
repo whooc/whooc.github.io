@@ -1,7 +1,8 @@
 ---
-layout: wiki
 title: OllyDbg
-categories: debug
+categories:
+- debug
+layout: wiki
 description: OllyDbg 快捷键及常用法。
 keywords: debug, ollydbg
 ---

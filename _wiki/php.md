@@ -1,7 +1,8 @@
 ---
-layout: wiki
 title: PHP
-categories: php
+categories:
+- php
+layout: wiki
 description: 学习 php 过程中遇到的问题记录。
 keywords: php
 ---

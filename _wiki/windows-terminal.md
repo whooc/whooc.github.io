@@ -1,7 +1,8 @@
 ---
-layout: wiki
 title: Windows Terminal
-categories: [Tools]
+categories:
+- Tools
+layout: wiki
 description: 打造好用的 Windows Terminal
 keywords: Windows Terminal
 ---

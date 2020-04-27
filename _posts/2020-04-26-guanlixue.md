@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 五年十年计划
-categories: study
+date: 2020-04-26 00:00:00 +08:00
+categories:
+- study
+layout: post
 description: 五年十年计划
 keywords: 五年十年计划
 ---
