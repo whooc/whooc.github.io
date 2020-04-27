@@ -62,7 +62,7 @@ gitment:
   oauth:
     client_id: '083ec94b416ce61952f8'
     client_secret: 2cfb5f73aae91e4faab9737c7d363063a1befef9
-lazy_load_disqus: false
+lazy_load_disqus: true
 simple_jekyll_search:
   fulltext: false
   limit: 10
