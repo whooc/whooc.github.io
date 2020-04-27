@@ -148,8 +148,8 @@
 }
 
 .site-header-nav {
-    float: right;
-    margin-bottom: -20px
+    float: left;
+    margin-bottom: 0px
 }
 
 .site-header-nav-item {
