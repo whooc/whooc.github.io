@@ -70,9 +70,7 @@
     <script src="https://cdn.jsdelivr.net/gh/whooc/whooc.github.io/assets/js/jquery-ui.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/whooc/whooc.github.io/assets/js/main.js"></script>
 
-    {% if site.url contains 'mazhuang.org' %}
-    <script data-ad-client="ca-pub-7093222719567591" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    {% endif %}
+     {% endif %}
 </head>
 <body class="{{ page.class }}" data-mz="{{ page.class }}">
     <header class="site-header">
@@ -83,7 +81,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>-->
-            <nav class="site-header-nav" role="navigation">
+            <center><nav class="site-header-nav" role="navigation"></center>
                 {% for nav in site.navs %}
                 <a href="{{ site.url }}{{ nav.href }}" class="{% if page.menu == nav.label %} selected {% endif %} site-header-nav-item" target="{{ nav.target | default: _self }}" title="{{ nav.label }}">{{ nav.label }}</a>
                 {% endfor %}
