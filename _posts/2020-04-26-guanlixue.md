@@ -33,7 +33,5 @@ keywords: 五年十年计划
 TCL就是这样成长起来的。TCL开始只是电话机厂，80个人。
 借香港一家公司的生产能力，成就了家电业的王牌。
 
-![](https://github.com/whooc/ruyipic/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200426102036.jpg)
-
-![](https://github.com/whooc/ruyipic/blob/master/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20200426090229.png)
-
+<img src="https://cdn.jsdelivr.net/gh/whooc/ruyipic/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20200426090229.png">
+<img src="https://cdn.jsdelivr.net/gh/whooc/ruyipic/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200426102036.jpg">
