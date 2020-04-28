@@ -75,7 +75,9 @@
 </head>
 <body class="{{ page.class }}" data-mz="{{ page.class }}">
     <header class="site-header">
-        <center>儒一和朋友们的小家</center>
+        <h1 class="collection-header" id="sub-title" style="font-size:45px;font-weight:400;color:#333333;font-family:Arial, &quot;text-align:-webkit-center;background-color:#FFFFFF;">
+	    <span>儒一和朋友们的小家</span>
+        </h1>
         <div class="container"> <!--这个是替换了标题旁边的图标logo-->
             <!--<h1><a href="{{ site.url }}/" title="{{ site.title }}"><img src="{{ site.url }}/Heart_icon_32px_1081667_easyicon.net.ico" /> {{ site.title }}</a></h1>
             <button class="collapsed mobile-visible" type="button" onclick="toggleMenu();">
@@ -83,8 +85,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <center><nav class="site-header-nav" role="navigation"></center>-->
-            <center>儒一和朋友们的小家</center>
+            <nav class="site-header-nav" role="navigation"> -->
                 {% for nav in site.navs %}
                 <a href="{{ site.url }}{{ nav.href }}" class="{% if page.menu == nav.label %} selected {% endif %} site-header-nav-item" target="{{ nav.target | default: _self }}" title="{{ nav.label }}">{{ nav.label }}</a>
                 {% endfor %}
