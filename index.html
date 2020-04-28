@@ -34,13 +34,14 @@ comments: false
 <hr align="center" style="FILTER: alpha(opacity=100,finishopacity=0,style=1)" width="100%" color="333" size="3">
 <!-- /.banner -->
 <section class="container content">
-            <div class="column one-third">
+
+    <div class="columns">
+        <div class="column one-third">
             {% include sidebar-search.html %}
             {% include sidebar-qrcode.html %}
             {% include sidebar-ad.html %}
             {% include sidebar-popular-repo.html %}
         </div>
-    <div class="columns">
         <div class="column two-thirds" >
             <ol class="repo-list">
                 {% for post in paginator.posts %}
