@@ -30,13 +30,13 @@ navs:
 - href: "/"
   label: 首页
 - href: "/categories/"
-  label: 文章分类
+  label: 分类
 - href: "/wiki/"
   label: 百科
 - href: "/links/"
-  label: 友情链接
+  label: 友链
 - href: "/about/"
-  label: 关于儒一
+  label: 关于
 subscribe_rss: "/feed.xml"
 markdown: kramdown
 kramdown:
